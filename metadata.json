@@ -1,0 +1,8 @@
+{
+  "name": "Podróżówka — Centrum Agentów Marketingowych",
+  "description": "System 8 agentów marketingowych dla podrozowka.pl oparty na wiedzy ze szkolenia wraz z generatorem prezentacji projektu zaliczeniowego.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
